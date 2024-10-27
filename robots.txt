@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://vobtdsix.github.io/ySn/ySn.txt
